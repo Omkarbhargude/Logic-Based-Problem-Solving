@@ -80,5 +80,23 @@ Suggestions, improvements, and optimizations are welcome.
 Computer Science Student | Logic Building & Problem Solving Enthusiast
 
 ---
-
 ⭐ If you find this repository helpful, consider giving it a star!
+
+# Logic-Based Problem Solving
+
+This repository contains logic and problem-solving programs implemented in C, C++, Java, and Python.
+
+## Structure
+
+├── C/  
+├── CPP/  
+├── Java/  
+└── Python/
+
+## How to Run
+
+### C
+```bash
+gcc file.c -o file
+./file
+
