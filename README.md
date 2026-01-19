@@ -58,6 +58,34 @@ The same types of problems are solved using:
 - Code is written with clarity and simplicity for beginners
 
 ---
+## How to Run
+
+### C programming
+-
+  ```bash
+   gcc file.c -o file
+  ./file
+---
+
+### Cpp programming
+-
+  ```bash
+  g++ filename.cpp -o myexe
+ ./myexe
+
+---
+### Java programming
+-
+  ```bash
+  javac filename.java
+  java filename
+
+---
+### Python programming
+-
+  ```bash
+  python filename.py
+---
 
 ## 🤝 Contributions
 
@@ -74,8 +102,4 @@ Computer Science Student | Logic Building & Problem Solving Enthusiast
 ---
 ⭐ If you find this repository helpful, consider giving it a star!
 
-### C
-```bash
-gcc file.c -o file
-./file
 
