@@ -13,9 +13,3 @@ The same types of problems are solved using:
 
 ## 📂 Repository Structure
 
--  |
--  |-C programming
--  |-C++ programming
--  |-Java programming
--  |-Python programming
--  |
