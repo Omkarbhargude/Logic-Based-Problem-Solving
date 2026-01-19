@@ -71,8 +71,7 @@ The same types of problems are solved using:
 -
   ```bash
   g++ filename.cpp -o myexe
- ./myexe
-
+  ./myexe
 ---
 ### Java programming
 -
