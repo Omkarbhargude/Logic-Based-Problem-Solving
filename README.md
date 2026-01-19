@@ -10,12 +10,13 @@ The same types of problems are solved using:
 - **Python**
 
 ---
-Each language folder contains logic-based programs such as:
-- Number problems
-- Conditional logic
-- Loop-based problems
-- Basic algorithms
-- Beginner to intermediate problem-solving programs
+
+## Folder Structure
+
+├── C/  
+├── CPP/  
+├── Java/  
+└── Python/
 
 ---
 
@@ -50,15 +51,6 @@ Each language folder contains logic-based programs such as:
 
 ---
 
-## 🛠 Languages Used
-
-- **C**
-- **C++**
-- **Java**
-- **Python**
-
----
-
 ## 📈 Progress & Practice
 
 - One problem = one commit
@@ -66,6 +58,13 @@ Each language folder contains logic-based programs such as:
 - Code is written with clarity and simplicity for beginners
 
 ---
+
+## How to Run
+
+### C
+  ``bash
+     gcc file.c -o file
+    ./file
 
 ## 🤝 Contributions
 
